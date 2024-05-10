@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 
 
